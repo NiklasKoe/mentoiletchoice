@@ -1,0 +1,61 @@
+﻿{
+  "scenarios": [
+    {
+      "spots": [
+        { "object": null },
+        { "object": null },
+        { "object": null },
+        { "object": null }
+      ]
+    },
+    {
+      "spots": [
+        { "object": "Person" },
+        { "object": null },
+        { "object": null }
+      ]
+    },
+    {
+      "spots": [
+        { "object": "Person" },
+        { "object": null },
+        { "object": null },
+        { "object": null }
+      ]
+    },
+    {
+      "spots": [
+        { "object": null },
+        { "object": "Person" },
+        { "object": null },
+        { "object": "Person" }
+      ]
+    },
+    {
+      "spots": [
+        { "object": null },
+        { "object": "Person" },
+        { "object": null },
+        { "object": null }
+      ]
+    },
+    {
+      "spots": [
+        { "object": "Person" },
+        { "object": "Person" },
+        { "object": null },
+        { "object": "Person" }
+      ]
+    },
+    {
+      "spots": [
+        { "object": "Person" },
+        { "object": "Person" },
+        { "object": null },
+        { "object": null },
+        { "object": "Person" },
+        { "object": "Person" }
+      ]
+    }
+  ]
+}
